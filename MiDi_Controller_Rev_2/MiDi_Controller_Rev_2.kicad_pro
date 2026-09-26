@@ -724,7 +724,7 @@
       "plot": "gerbers-midi-controller-rev1/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MiDi_Controller_Rev_2_hor_pin_headers.stl",
       "svg": "",
       "vrml": ""
     },
